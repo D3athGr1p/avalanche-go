@@ -1,3 +1,9 @@
+### Ref : https://github.com/MetalBlockchain/metalgo
+
+### Ref : https://github.com/chain4travel/caminogo
+
+### https://github.com/gauthier-voron/minion/blob/develop/script/remote/linux/apt/install-avalanche
+
 <div align="center">
   <img src="resources/AvalancheLogoRed.png?raw=true">
 </div>
